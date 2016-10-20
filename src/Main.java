@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // 오명훈
+        // 오명훈2
         Scanner scan = new Scanner(System.in);
         System.out.println("���ڸ� �Է��ϼ���");
         int num;
