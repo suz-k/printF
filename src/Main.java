@@ -30,6 +30,6 @@ public class Main {
         for (int i = 0; i < (num/2); i++) {
             System.out.println("*");
         }
-
+//
     }
 }
