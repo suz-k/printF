@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // ì˜¤ëª…í›ˆ2
         Scanner scan = new Scanner(System.in);
-        System.out.println("¼ýÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä");
+        System.out.println("ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½");
         int num;
 
         num = scan.nextInt();
